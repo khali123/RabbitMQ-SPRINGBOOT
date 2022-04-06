@@ -1,6 +1,0 @@
-C:\Program Files\erl-24.1.4 => ERLANG FOR RABBITMQ
-guest guest
-http://localhost:15672/#/
-
-https://erlang.org/download/
-https://www.rabbitmq.com/install-windows.html
